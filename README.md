@@ -5,8 +5,8 @@
 &emsp;
 <h3 align="left">Hi 👋, I'm Daniel Fontalva, web developer and philosopher from Spain.</h3>
 
-<h3> PhP and Laravel Projects</h3>
-<a href="https://danielfo684.github.io/Portfolio/">Enlace</a>
+<h3>Some of my projects</h3>
+<a href="https://DanielFontalva.github.io">Link</a>
 
 &emsp;
 
