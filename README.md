@@ -14,7 +14,7 @@
 
 &emsp;
 
-## My knowledges as a web developer
+## My skills as a web developer
 -------------------
 ### Frontend development:
 &emsp;
