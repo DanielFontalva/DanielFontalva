@@ -43,7 +43,7 @@
 &emsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![SQLServer]((https://img.shields.io/badge/Microsoft_SQL_Server-CC2927))
+![SQLServer]((https://img.shields.io/badge/Microsoft-SQL-Server-CC2927))
 
 &emsp;
 
@@ -51,7 +51,7 @@
 -------------------
 
 &emsp;
-<a href="https://www.linkedin.com/in/daniel-fontalva/">
+<a href="https://www.linkedin.com/in/danielfontalva/">
     ![Linkedin: Daniel Fontalva](https://img.shields.io/badge/-dani-blue?style=flat-square&logo=Linkedin&logoColor=white)
 </a>
 <a href="https://github.com/Danielfo684">
